@@ -45,7 +45,7 @@ javac src/com/parkinglot/*.java
 
 --
 
-📌 Commands You Can Use
+### 📌 Commands You Can Use
 Command	Description
 enter SMALL ABC123	Enter a small car with plate ABC123
 enter LARGE XYZ789	Enter a large vehicle
@@ -55,7 +55,7 @@ quit	Exit the CLI application
 
 --
 
-🧪 Sample Test Commands
+### 🧪 Sample Test Commands
 You can test the system using the provided test-commands.txt:
 
 bash
@@ -73,7 +73,7 @@ quit
 
 --
 
-💡 Design Overview
+### 💡 Design Overview
 See Presentation.md for:
 
 Architecture & design decisions
@@ -86,15 +86,15 @@ Slot allocation logic
 
 --
 
-📘 License
+### 📘 License
 This project is licensed under the MIT License — feel free to use and modify.
 
 --
 
-🤝 Contributing
+### 🤝 Contributing
 Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
 
 --
 
-🙌 Acknowledgements
+### 🙌 Acknowledgements
 Built with 💻 Java and passion for clean code.
