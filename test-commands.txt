@@ -1,0 +1,6 @@
+enter SMALL ABC123
+enter LARGE XYZ789
+enter OVERSIZE TRK001
+exit ABC123
+status
+quit
