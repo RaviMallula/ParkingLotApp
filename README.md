@@ -36,11 +36,11 @@ javac src/com/parkinglot/*.java
 
 ### 📌 Commands You Can Use
 Command	Description
-enter SMALL ABC123	Enter a small car with plate ABC123
-enter LARGE XYZ789	Enter a large vehicle
-exit ABC123	Exit vehicle with plate ABC123
-status	View current parking lot status
-quit	Exit the CLI application
+enter SMALL ABC123	      Enter a small car with plate ABC123
+enter LARGE XYZ789	      Enter a large vehicle
+exit ABC123               Exit vehicle with plate ABC123
+status	                  View current parking lot status
+quit	                    Exit the CLI application
 
 --
 
