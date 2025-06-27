@@ -16,19 +16,8 @@ A command-line Java application to manage a small parking lot with different slo
 
 ## 📂 Project Structure
 
-ParkingLotApp/
-├── src/
-│ └── com/
-│ └── parkinglot/
-│ ├── Main.java # CLI runner
-│ ├── ParkingLot.java # Core logic
-│ ├── Slot.java # Slot model
-│ ├── Vehicle.java # Vehicle model
-│ └── VehicleType.java # Enum for types
-├── test-commands.txt # Sample test commands
-├── README.md # Project overview and usage
-├── Presentation.md # Approach and design summary
-└── ParkingLot_Code_Explanation.pdf # Line-by-line code explanation (optional)
+![image](https://github.com/user-attachments/assets/d262a1da-e43f-47af-8566-4ad569d4206e)
+
 
 ---
 
