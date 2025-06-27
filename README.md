@@ -30,7 +30,6 @@ ParkingLotApp/
 ├── Presentation.md # Approach and design summary
 └── ParkingLot_Code_Explanation.pdf # Line-by-line code explanation (optional)
 
-yaml
 ---
 
 ## 🚀 Getting Started
@@ -44,6 +43,7 @@ yaml
 bash
 javac src/com/parkinglot/*.java
 
+--
 
 📌 Commands You Can Use
 Command	Description
@@ -53,6 +53,7 @@ exit ABC123	Exit vehicle with plate ABC123
 status	View current parking lot status
 quit	Exit the CLI application
 
+--
 
 🧪 Sample Test Commands
 You can test the system using the provided test-commands.txt:
@@ -70,6 +71,7 @@ exit ABC123
 status
 quit
 
+--
 
 💡 Design Overview
 See Presentation.md for:
@@ -82,11 +84,17 @@ Slot allocation logic
 
 📄 For detailed explanation of each Java file, check ParkingLot_Code_Explanation.pdf
 
+--
+
 📘 License
 This project is licensed under the MIT License — feel free to use and modify.
 
+--
+
 🤝 Contributing
 Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
+
+--
 
 🙌 Acknowledgements
 Built with 💻 Java and passion for clean code.
