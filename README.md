@@ -16,19 +16,8 @@ A command-line Java application to manage a small parking lot with different slo
 
 ## 📂 Project Structure
 
-ParkingLotApp/
-├── src/
-│ └── com/
-│ └── parkinglot/
-│ ├── Main.java # CLI runner
-│ ├── ParkingLot.java # Core logic
-│ ├── Slot.java # Slot model
-│ ├── Vehicle.java # Vehicle model
-│ └── VehicleType.java # Enum for types
-├── test-commands.txt # Sample test commands
-├── README.md # Project overview and usage
-├── Presentation.md # Approach and design summary
-└── ParkingLot_Code_Explanation.pdf # Line-by-line code explanation (optional)
+![image](https://github.com/user-attachments/assets/d262a1da-e43f-47af-8566-4ad569d4206e)
+
 
 ---
 
@@ -46,12 +35,8 @@ javac src/com/parkinglot/*.java
 --
 
 ### 📌 Commands You Can Use
-Command	Description
-enter SMALL ABC123	Enter a small car with plate ABC123
-enter LARGE XYZ789	Enter a large vehicle
-exit ABC123	Exit vehicle with plate ABC123
-status	View current parking lot status
-quit	Exit the CLI application
+![image](https://github.com/user-attachments/assets/bde0e91e-f374-44f4-bc1b-b8fb3f356c88)
+
 
 --
 
